@@ -1,1 +1,0 @@
-doubleIt x = x + x
