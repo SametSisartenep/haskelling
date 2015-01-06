@@ -1,3 +1,3 @@
 doubleIt x = x + x
 
-doubleIt2 x y = x * 2 + y * 2
+doubleIt2 x y = doubleIt x + doubleIt y
